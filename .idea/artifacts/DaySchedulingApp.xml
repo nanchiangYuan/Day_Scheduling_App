@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="DaySchedulingApp">
+    <output-path>$PROJECT_DIR$/out/artifacts/DaySchedulingApp</output-path>
+    <root id="root">
+      <element id="archive" name="DaySchedulingApp.jar">
+        <element id="module-output" name="DaySchedulingApp" />
+      </element>
+    </root>
+  </artifact>
+</component>
