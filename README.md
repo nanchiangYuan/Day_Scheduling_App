@@ -1,6 +1,6 @@
 Day Scheduling App  
+-----------------------------------------------------------
 Author: Nanchiang Yuan (Ashley)
------------------------------------------------------------  
 This is an app that takes a list of tasks needed done by the user and generates a schedule of a day according to different settings and criteria the user gets to specify.
 
 Functionality of the app:  
